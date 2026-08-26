@@ -38,7 +38,7 @@
 | Name        | L0 - Std IO Lab                                                                                |
 | Description | Lab covering standard input and output                                                        |
 | Due Date    | 07-Sep-2026                                                                          |
-| Status      | complete                                                                                      |
-| Self Grade  | 100/100                                                                                       |
+| Status      | In Progress                                                                           |
+| Self Grade  |-/100                                                                                       |
 | Notes       | fixed all the fixmes; learned about stdio; stdio is the fundamental building blocks in coding |
 
