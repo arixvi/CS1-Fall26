@@ -1,0 +1,9 @@
+name: cpp
+channels:
+    - conda-forge
+    - defaults
+dependencies:
+    - xeus-cling
+    - python
+    - pip:
+        - -r requirements.txt
