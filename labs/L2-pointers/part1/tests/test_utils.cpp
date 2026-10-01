@@ -22,7 +22,7 @@ TEST_CASE("Testing find_sum function")
     }
 
     // FIXME8: Add 2 more test cases to cover edge cases
-    SUBCASE("Two negative numbers")
+    SUBCASE("Two negative numbers") //FIXED
     {
         big_int *n1 = new big_int(-10);
         big_int *n2 = new big_int(-20);
@@ -58,7 +58,7 @@ TEST_CASE("Testing find_product function")
     }
 
     // FIXME9: add 2 more test cases to cover edge cases
-    SUBCASE("Multiplying by zero")
+    SUBCASE("Multiplying by zero") // FIXED
     {
         large_int a = 100;
         large_int b = 0;
@@ -73,7 +73,7 @@ TEST_CASE("Testing find_product function")
 }
 
 // FIXME10: Write test cases (with at least 2 subcases) for find_difference function declared in utils.h
-TEST_CASE("Testing find_difference function")
+TEST_CASE("Testing find_difference function") // FIXED
 {
     SUBCASE("Positive result")
     {
@@ -90,7 +90,7 @@ TEST_CASE("Testing find_difference function")
 }
 
 // FIXME11: Write test cases (with at least 2 subcases) for find_larger function declared in utils.h
-TEST_CASE("Testing find_larger function")
+TEST_CASE("Testing find_larger function") //FIXED
 {
     SUBCASE("First argument is larger")
     {

@@ -22,15 +22,15 @@ int main(int argc, char *argv[])
     large_int *sum = new large_int;     // declare sum as a dynamic variable
     large_int *prod = new large_int;
       // FIXME0 - create a dynamic memory to store a char and store its address in input pointer
-    input = new char; 
+    input = new char; //FIXED
     // FIXME1 - declare dynamic variables to store difference and larger values
     // Must use these variables to store the returned values from functions
-    large_int *diff = new large_int;
-    large_int *larger = new large_int;
+    large_int *diff = new large_int; //FIXED
+    large_int *larger = new large_int; //FIXED
 
 OPERATION oper;
-    // FIXME2: Add do... while loop to continue the program until the user wants to quit
-    // FIXME3: call clear function defined above to clear the screen
+    // FIXME2: Add do... while loop to continue the program until the user wants to quit #FIXED
+    // FIXME3: call clear function defined above to clear the screen  #FIXED
 do {
 
    // clear();
@@ -56,7 +56,7 @@ do {
         printf("%lld * %lld = %lld\n", *num1, *num2, *prod);
         break;
         // FIXME4: complete the rest of the cases to perform other operations
-    case SUBTRACT:
+    case SUBTRACT: // FIXED
         cout << "Enter the whole numbers separated by space: ";
         cin >> *num1 >> *num2;
         *diff = find_difference(*num1, *num2);
@@ -81,7 +81,7 @@ delete prod;
 delete diff;
 delete larger;
 
-//FIXME5: delete other dynamic variables created above
+//FIXME5: delete other dynamic variables created above #FIXED
 
 cin.ignore(1000, '\n');
 cout << "Good bye! Enter to exit the program...";

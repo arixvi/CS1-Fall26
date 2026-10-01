@@ -31,7 +31,7 @@ OPERATION get_operation(char choice)
             op = SUBTRACT;
             break;
         // FIXME6 - ADD CASE FOR LARGER
-        case '4':
+        case '4': //FIXED
             op = LARGER;
             break;
         default:
@@ -51,14 +51,14 @@ big_int my_space::find_sum(const big_int *n1, const big_int *n2)
 // function returns the larger of the two numbers
 // use conditional (ternary) operator
 
-big_int my_space::find_larger(const big_int *n1, const big_int *n2)
+big_int my_space::find_larger(const big_int *n1, const big_int *n2) // FIXED
 {
     return (*n1 > *n2) ? *n1 : *n2;
 }
 
 
 //find prodcut function definition
-large_int my_space::find_product(const large_int &n1, const large_int &n2)
+large_int my_space::find_product(const large_int &n1, const large_int &n2) 
 {
     return n1 * n2;
 }
@@ -66,7 +66,7 @@ large_int my_space::find_product(const large_int &n1, const large_int &n2)
 //FIXME8: define find_difference function declared inside my_space namespace
 //return the value of second big_int subtracted from the first
 
-large_int my_space::find_difference(const large_int &n1, const large_int &n2)
+large_int my_space::find_difference(const large_int &n1, const large_int &n2) // FIXED
 {
     return n1 - n2;
 }

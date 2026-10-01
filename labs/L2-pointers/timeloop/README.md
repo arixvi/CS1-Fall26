@@ -18,17 +18,17 @@
 
 
 
-## Current Lab Due 09/30/2026
+## Labs
 
 
 ### Lab #2
 
 | Name        | Ari Murillo                                                                    |
 | :---------- | :----------------------------------------------------------------------- |
-| Name        | L2 - Namespaces & Pointers Lab                                           |
-| Description | Lab covering basic math operations using namespaces and enum types                                   |
+| Name        | L2 - Timeloop                                           |
+| Description | Solves the Kattis "Stuck in a Timeloop" problem using pointers, dynamic memory, and unit tests with doctest.                                   |
 | Due Date    | 30-Sep-26                                                                |
 | Status      | Completed                                                                 |
 | Self Grade  | 100/100                                                                  |
-| Notes       | typed the given code stub; fixed all the fixmes;      |
+| Notes       | typed the given code stub; fixed all the fixmes; submitted screenshots      |
 
