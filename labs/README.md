@@ -34,8 +34,8 @@
 | Description | Lab covering standard input and output                                   |
 | Due Date    | 21-Sep-26                                                                |
 | Status      | -                                                                 |
-| Self Grade  | 100/100                                                                  |
-| Notes       | typed the given code stub; fixed all the fixmes; learned about stdio     |
+| Self Grade  | -/100                                                                  |
+| Notes       | typed the given code stub; fixed all the fixmes;      |
 
 
 ### Lab #2
@@ -44,8 +44,8 @@
 | :---------- | :----------------------------------------------------------------------- |
 | Name        | L2 - Namespaces & Pointers Lab                                           |
 | Description | Lab covering basic math operations using namespaces and enum types                                   |
-| Due Date    | 28-Sep-26                                                                |
-| Status      | -                                                                 |
-| Self Grade  | -/100                                                                  |
-| Notes       | typed the given code stub; fixed all the fixmes; learned about stdio     |
+| Due Date    | 30-Sep-26                                                                |
+| Status      | Completed                                                                 |
+| Self Grade  | 100/100                                                                  |
+| Notes       | typed the given code stub; fixed all the fixmes; submitted screenshots     |
 
