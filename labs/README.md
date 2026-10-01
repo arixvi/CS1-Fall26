@@ -42,7 +42,7 @@
 
 | Name        | Value                                                                    |
 | :---------- | :----------------------------------------------------------------------- |
-| Name        | L2 - Namespaces & Pointers Lab                                           |
+| Name        | L2 - Namespaces & Pointers Lab/Timeloop                                           |
 | Description | Lab covering basic math operations using namespaces and enum types                                   |
 | Due Date    | 30-Sep-26                                                                |
 | Status      | Completed                                                                 |
