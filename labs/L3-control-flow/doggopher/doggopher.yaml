@@ -1,0 +1,7 @@
+accepted: 2
+cpu_limit: 1 second
+difficulty: '2.0'
+mem_limit: 1024 MB
+problemid: doggopher
+submissions: 2
+title: Dog & Gopher
