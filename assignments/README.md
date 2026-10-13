@@ -9,10 +9,10 @@
 | **Mav Username**    | amurillo                                       |
 | **GitHub Username** | arixvi                                     |
 
-
+<br>
+<br>
 
 ## Assignments
-
 
 
 ### Assignment #0
@@ -26,6 +26,11 @@
 | Self Grade  | 100/100                                                                                                                          |
 | Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
 
+
+
+<br>
+<br>
+
 ### Assignment #1: A1-doctest 
 
 | Name        | Value                                                                                                                            |
@@ -37,3 +42,33 @@
 | Self Grade  | 100/100                                                                                                                          |
 | Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
 
+<br>
+<br>
+
+### Assignment #2: A2-pointers 
+
+| Name        | Value                                                                                                                            |
+| :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| Name        | A2 - Namespaces & Pointers                                                                                                                       |
+| Description | Print the name three times.                                                                                                      |
+| Due Date    | 02-Oct-2026                                                                                                                         |
+| Status      | Complete                                                                                                                      |
+| Self Grade  | 100/100                                                                                                                          |
+| Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
+
+<br>
+<br>
+
+### Assignment #3: A3-control-flows 
+
+| Name        | Value                                                                                                                            |
+| :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| Name        | A3 - Sorttwonumbers & FizzBuzz                                                                                                                       |
+| Description | Prints numbers but swaps some of them with the words Fizz, Buzz, or Fizzbuzz based on divisibility;    Reads two numbers and prints them in small to large order.                                                                                                   |
+| Due Date    | 12-Oct-2026                                                                                                                         |
+| Status      | Sorttwonumbers complete; Fizzbuzz in progress                                                                                                                      |
+| Self Grade  | 100/100                                                                                                                          |
+| Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
+
+<br>
+<br>
