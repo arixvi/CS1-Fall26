@@ -66,7 +66,7 @@
 | Name        | A3 - Sorttwonumbers & FizzBuzz                                                                                                                       |
 | Description | Prints numbers but swaps some of them with the words Fizz, Buzz, or Fizzbuzz based on divisibility;    Reads two numbers and prints them in small to large order.                                                                                                   |
 | Due Date    | 12-Oct-2026                                                                                                                         |
-| Status      | Sorttwonumbers complete; Fizzbuzz in progress                                                                                                                      |
+| Status      | Complete                                                                                                                      |
 | Self Grade  | 100/100                                                                                                                          |
 | Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
 

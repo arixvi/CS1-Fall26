@@ -19,3 +19,9 @@ int main() { // main function
 
     return 0; // must return 0, telling the OS that this program was successful!
 }
+
+/* string *value = new string;
+*value = "Hello World!\n";
+print ("{0} {1}\n" *value, 1);
+delete value; */ 
+// ^ other optionmfor how to output hello world? 
