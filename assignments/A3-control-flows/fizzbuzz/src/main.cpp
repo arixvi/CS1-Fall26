@@ -6,11 +6,11 @@ Date: 10/09/2026
 Program reads two whole numbers and prints them in increasing order.
 
 Algorithm Steps:
-1. Declare two dynamic int variables a and b using new
-2.
-3. 
-4. 
-5. 
+1. Declare three dynamic variables x y and n using new
+2. Read X, Y, and N 
+3.  Loop i from 1 to N
+4. For each i, call fizz_buzz and print the result on its own line
+5. Delete x, y , and n to free the dyanmic memory
 */
 
 #include <iostream>
