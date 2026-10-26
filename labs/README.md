@@ -60,3 +60,14 @@
 | Self Grade  | 100/100                                                                  |
 | Notes       | typed the given code stub; fixed all the fixmes; submitted screenshots of manual tests that were run.    |
 
+### Lab #4
+
+| Name        | Value                                                                    |
+| :---------- | :----------------------------------------------------------------------- |
+| Name        | L4 - Palindrome & Simon Says Labs                                      |
+| Description | Program will take some text and print if it a palindrome or not and print result. Program plays Simon says, it only follows action if it begins with 'Simon says'.                                  |
+| Due Date    | 23-Oct-26                                                                |
+| Status      | Completed                                                                 |
+| Self Grade  | 100/100                                                                  |
+| Notes       | typed the given code stub; fixed all the fixmes; submitted screenshots of manual tests that were run.    |
+
