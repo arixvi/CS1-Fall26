@@ -72,3 +72,16 @@
 
 <br>
 <br>
+
+### Assignment #4: A4-strings
+
+| Name        | Value                                                                                                                            |
+| :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| Name        | A4 - apaxiaaans & avion                                                                                                                       |
+| Description | Removes repeated letters that are next to each other in a name; reads 5 blimp codes and prints the the row numbers of the ones containing "FBI", or the "HE GOT AWAY!" if none do.                                                                                                    |
+| Due Date    | 26-Oct-2026                                                                                                                         |
+| Status      | Complete                                                                                                                      |
+| Self Grade  | 100/100                                                                                                                          |
+| Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
+
+
