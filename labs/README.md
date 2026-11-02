@@ -71,3 +71,15 @@
 | Self Grade  | 100/100                                                                  |
 | Notes       | typed the given code stub; fixed all the fixmes; submitted screenshots of manual tests that were run.    |
 
+
+### Lab #5
+
+| Name        | Value                                                                    |
+| :---------- | :----------------------------------------------------------------------- |
+| Name        | L5 - Tic Tac Toe & Kattis Problem: Modulo                                    |
+| Description |  A Tic Tac Toe game using a 2-D array with two-player and vs-computer modes; reads 10 numbers and counts how many different remainders they give when divided by 42.                                  |
+| Due Date    | 30-Oct-26                                                                |
+| Status      | Completed Tictactoe / Modulo in progress                                                               |
+| Self Grade  | 50/100                                                                  |
+| Notes       | typed the given code stub; fixed all the fixmes; submitted screenshots of manual tests that were run.    |
+
