@@ -85,3 +85,47 @@
 | Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
 
 
+<br>
+<br>
+
+### Assignment #5
+
+| Name        | Value                                                                                                                            |
+| :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| Name        | A5 - Falling Apart & Lineup                                                                                                                        |
+| Description | Checks if a list of names is in increasing, decreasing, or neither alphabetical order; sorts pieces from largest to smallest and adds up Alice's and Bob's totals as they take turns picking.                                                                                                    |
+| Due Date    | 02-Nov-2026                                                                                                                         |
+| Status      | Completed                                                                                                                      |
+| Self Grade  | 100/100                                                                                                                          |
+| Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
+
+
+<br>
+<br>
+
+### Assignment #6
+
+| Name        | Value                                                                                                                            |
+| :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| Name        | A6 - Rectangle Area & Titlecost                                                                                                                       |
+| Description | -                                                                                                    |
+| Due Date    | 06-Nov-2026                                                                                                                         |
+| Status      | Completed                                                                                                                      |
+| Self Grade  | 100/100                                                                                                                          |
+| Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
+
+<br>
+<br>
+
+### Assignment #7
+
+| Name        | Value                                                                                                                            |
+| :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| Name        | A7 - Rectangle Area & Titlecost                                                                                                                       |
+| Description | -                                                                                                    |
+| Due Date    | 13-Nov-2026                                                                                                                         |
+| Status      | Completed                                                                                                                      |
+| Self Grade  | 100/100                                                                                                                          |
+| Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
+
+
