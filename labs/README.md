@@ -79,7 +79,51 @@
 | Name        | L5 - Tic Tac Toe & Kattis Problem: Modulo                                    |
 | Description |  A Tic Tac Toe game using a 2-D array with two-player and vs-computer modes; reads 10 numbers and counts how many different remainders they give when divided by 42.                                  |
 | Due Date    | 30-Oct-26                                                                |
-| Status      | Completed Tictactoe / Modulo in progress                                                               |
-| Self Grade  | 50/100                                                                  |
+| Status      | Completed                                                             |
+| Self Grade  | 100/100                                                                  |
+| Notes       | typed the given code stub; fixed all the fixmes; submitted screenshots of manual tests that were run.    |
+
+### Lab #6
+
+| Name        | Value                                                                    |
+| :---------- | :----------------------------------------------------------------------- |
+| Name        | L6 - Kattis Problem: Grading & Poker Hand                                    |
+| Description |  Uses a struct to store grade cutoffs and an exam score, then finds the letter grade (A–F); uses structs for cards and a hand to find the most cards with the same rank.                                  |
+| Due Date    | 06-Nov-26                                                                |
+| Status      | Complete                                                               |
+| Self Grade  | 100/100                                                                  |
+| Notes       | typed the given code stub; fixed all the fixmes; submitted screenshots of manual tests that were run.    |
+
+### Lab #7
+
+| Name        | Value                                                                    |
+| :---------- | :----------------------------------------------------------------------- |
+| Name        | L7 - File IO                                    |
+| Description |  Reads numbers from an input file into a dynamic array, finds the max, min, mean, median, and range, and writes a formatted report to an output file.This program will ...                                  |
+| Due Date    | 13-Nov-26                                                                |
+| Status      | Complete                                                               |
+| Self Grade  | 100/100                                                                  |
+| Notes       | typed the given code stub; fixed all the fixmes; submitted screenshots of manual tests that were run.    |
+
+### Lab #8
+
+| Name        | Value                                                                    |
+| :---------- | :----------------------------------------------------------------------- |
+| Name        | L8 - STL Vectors                                    |
+| Description |  This program will ...                                  |
+| Due Date    | 20-Nov-26                                                                |
+| Status      | Complete                                                               |
+| Self Grade  | 100/100                                                                  |
+| Notes       | typed the given code stub; fixed all the fixmes; submitted screenshots of manual tests that were run.    |
+
+### Lab #9
+
+| Name        | Value                                                                    |
+| :---------- | :----------------------------------------------------------------------- |
+| Name        | L9 - Recursion                                    |
+| Description |  This program will ...                                  |
+| Due Date    | 30-Nov-26                                                                |
+| Status      | Complete                                                               |
+| Self Grade  | 100/100                                                                  |
 | Notes       | typed the given code stub; fixed all the fixmes; submitted screenshots of manual tests that were run.    |
 
