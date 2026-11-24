@@ -9,7 +9,6 @@ Description: Reads student names and 4 test scores from a text file, finds each
 student's average and letter grade, sorts students by average (highest first),
 calculates class statistics, and writes a formatted grade report to a file.
 
-Note: code written with help from Claude (AI).
 
 Algorithm Steps:
 1. Create a dynamic array to hold up to 50 student records
