@@ -8,7 +8,7 @@ using namespace std;
 const int MAX_STUDENTS = 50;
 const int NUM_TESTS = 4;
 
-// one student record (one "row")
+// one student record
 struct StudentGrade {
     string firstName;
     string lastName;
@@ -24,11 +24,11 @@ int readData(const string & fileName, StudentGrade students[]);
 float findAverage(const StudentGrade & s);
 char findLetterGrade(float average);
 
-// sorting (descending by average)
+// sorting 
 bool compareGreater(const StudentGrade & s1, const StudentGrade & s2);
 void sortStudents(StudentGrade students[], int count);
 
-// class stats for one test column (test = 0, 1, 2, 3)
+// class stats for one test column
 float testAverage(const StudentGrade students[], int count, int test);
 int testMax(const StudentGrade students[], int count, int test);
 int testMin(const StudentGrade students[], int count, int test);
@@ -41,5 +41,5 @@ float classMin(const StudentGrade students[], int count);
 // percent of students with a letter grade
 float letterPercent(const StudentGrade students[], int count, char letter);
 
-// report (works with cout or fout, like writeResults in the chapter)
+// report 
 void writeReport(ostream & out, const StudentGrade students[], int count);

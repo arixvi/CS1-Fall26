@@ -1,7 +1,7 @@
 #include <fstream>
 #include <iomanip>
 #include <algorithm>
-#include "gradebook.hpp"
+#include "fileio.hpp"
 
 // reads student records until end of file (max 50); returns how many were read
 int readData(const string & fileName, StudentGrade students[]) {
@@ -115,7 +115,7 @@ float letterPercent(const StudentGrade students[], int count, char letter) {
     return matches * 100.0 / count;
 }
 
-// writes the full report to cout or a file (like writeResults in the Structs chapter)
+// writes the full report to cout or a file 
 void writeReport(ostream & out, const StudentGrade students[], int count) {
     const int LINE = 103;
     out << setw(60) << right << "CSCI 111 Grade Report" << endl;
@@ -147,6 +147,18 @@ void writeReport(ostream & out, const StudentGrade students[], int count) {
         out << setw(10) << right << testAverage(students, count, t);
     out << setw(15) << right << classAverage(students, count) << endl;
 
-    out << setw(40) << left << "Maximums";
+      out << setw(40) << left << "Maximums";
     for (int t = 0; t < NUM_TESTS; t++)
-        out << setw(10)
+        out << setw(10) << right << testMax(students, count, t);
+    out << setw(15) << right << classMax(students, count) << endl;
+
+    out << setw(40) << left << "Minimums";
+    for (int t = 0; t < NUM_TESTS; t++)
+        out << setw(10) << right << testMin(students, count, t);
+    out << setw(15) << right << classMin(students, count) << endl << endl;
+
+    // letter grade percents
+    char letters[] = {'A', 'B', 'C', 'D', 'F'};
+    for (int i = 0; i < 5; i++)
+        out << letters[i] << "% = " << letterPercent(students, count, letters[i]) << "%" << endl;
+}

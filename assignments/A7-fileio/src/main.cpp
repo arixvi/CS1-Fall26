@@ -9,6 +9,7 @@ Description: Calculate each student's average and letter grade, ranks students b
 computes class statistics, reads student names and four test results from a text file, and outputs a grade
 report to a file. 
 
+
 Algorithm Steps:
 1. Create a dynamic array that can accomodate up to 50 students
 2. Display the menu and read the users selection
@@ -16,7 +17,7 @@ Algorithm Steps:
 and letter grade for every student.
 4. Option 2: use average to arrange the records in descending order 
 5. Option 3: print the report on the screen
-6. Option 4: write the report to the output filoe after requesting its name.
+6. Option 4: write the report to the output file after requesting its name.
 7. Option 5: quit
 8. Repeat steps 2-7 until the user quits
 9. Free the dynamic array

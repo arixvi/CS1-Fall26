@@ -31,7 +31,7 @@
 <br>
 <br>
 
-### Assignment #1: A1-doctest 
+### Assignment #1
 
 | Name        | Value                                                                                                                            |
 | :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
@@ -45,7 +45,7 @@
 <br>
 <br>
 
-### Assignment #2: A2-pointers 
+### Assignment #2
 
 | Name        | Value                                                                                                                            |
 | :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
@@ -59,7 +59,7 @@
 <br>
 <br>
 
-### Assignment #3: A3-control-flows 
+### Assignment #3
 
 | Name        | Value                                                                                                                            |
 | :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
@@ -73,7 +73,7 @@
 <br>
 <br>
 
-### Assignment #4: A4-strings
+### Assignment #4
 
 | Name        | Value                                                                                                                            |
 | :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
@@ -110,8 +110,8 @@
 | Name        | A6 - Rectangle Area & Titlecost                                                                                                                       |
 | Description | -                                                                                                    |
 | Due Date    | 06-Nov-2026                                                                                                                         |
-| Status      | Completed                                                                                                                      |
-| Self Grade  | 100/100                                                                                                                          |
+| Status      | -                                                                                                                     |
+| Self Grade  | -/100                                                                                                                          |
 | Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
 
 <br>
@@ -121,11 +121,44 @@
 
 | Name        | Value                                                                                                                            |
 | :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
-| Name        | A7 - Rectangle Area & Titlecost                                                                                                                       |
-| Description | -                                                                                                    |
+| Name        | A7 - File IO                                                                                                                       |
+| Description | Calculate each student's average and letter grade, ranks students by average (hihgest first), 
+computes class statistics, reads student names and four test results from a text file, and outputs a grade
+report to a file.                                                                                                     |
 | Due Date    | 13-Nov-2026                                                                                                                         |
 | Status      | Completed                                                                                                                      |
 | Self Grade  | 100/100                                                                                                                          |
 | Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
+
+
+<br>
+<br>
+
+### Assignment #8
+
+| Name        | Value                                                                                                                            |
+| :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| Name        | A8 - STL Vector                                                                                                                   |
+| Description | -                                                                                                    |
+| Due Date    | 20-Nov-2026                                                                                                                         |
+| Status      | Completed                                                                                                                      |
+| Self Grade  | 100/100                                                                                                                          |
+| Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
+
+<br>
+<br>
+
+### Assignment #9
+
+| Name        | Value                                                                                                                            |
+| :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
+| Name        | A9 - Recursion                                                                                                                       |
+| Description | -                                                                                                    |
+| Due Date    | 30-Nov-2026                                                                                                                         |
+| Status      | Completed                                                                                                                      |
+| Self Grade  | 100/100                                                                                                                          |
+| Notes       | completed all the requirements and tested program many times; solution accepted by kattis; screenshot found in the same location; README updated |
+
+
 
 
