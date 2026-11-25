@@ -1,24 +1,22 @@
 /*
-Program: A7 - Gradebook Using Structure and File IO
+Program: A7 - Gradebook 
 Programmer: Ari Murillo
 Date: 11/24/2026
 Class: CSCI 111 Foundations of Computer Science
 Term: Fall 2026
 
-Description: Reads student names and 4 test scores from a text file, finds each
-student's average and letter grade, sorts students by average (highest first),
-calculates class statistics, and writes a formatted grade report to a file.
-
-Note: code written with help from Claude (AI).
+Description: Calculate each student's average and letter grade, ranks students by average (hihgest first), 
+computes class statistics, reads student names and four test results from a text file, and outputs a grade
+report to a file. 
 
 Algorithm Steps:
-1. Create a dynamic array to hold up to 50 student records
-2. Show the menu and read the user's choice
-3. Option 1: ask for the input file name, read all records, and
-   find each student's average and letter grade
-4. Option 2: sort the records in descending order by average
-5. Option 3: print the report to the screen
-6. Option 4: ask for the output file name and write the report to it
+1. Create a dynamic array that can accomodate up to 50 students
+2. Display the menu and read the users selection
+3. Option 1: request the input file name, review every record, and determine the average
+and letter grade for every student.
+4. Option 2: use average to arrange the records in descending order 
+5. Option 3: print the report on the screen
+6. Option 4: write the report to the output filoe after requesting its name.
 7. Option 5: quit
 8. Repeat steps 2-7 until the user quits
 9. Free the dynamic array
