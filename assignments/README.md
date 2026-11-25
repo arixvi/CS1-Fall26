@@ -122,9 +122,7 @@
 | Name        | Value                                                                                                                            |
 | :---------- | :------------------------------------------------------------------------------------------------------------------------------- |
 | Name        | A7 - File IO                                                                                                                       |
-| Description | Calculate each student's average and letter grade, ranks students by average (hihgest first), 
-computes class statistics, reads student names and four test results from a text file, and outputs a grade
-report to a file.                                                                                                     |
+| Description | Calculate each student's average and letter grade, ranks students by average (hihgest first), computes class statistics, reads student names and four test results from a text file, and outputs a grade report to a file. 
 | Due Date    | 13-Nov-2026                                                                                                                         |
 | Status      | Completed                                                                                                                      |
 | Self Grade  | 100/100                                                                                                                          |
